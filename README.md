@@ -1,4 +1,4 @@
-# ModelsusingQLoRA
+# Models using QLoRA
 In this, we will use the following models:
 
 Fine-tune the models using QLoRA.
